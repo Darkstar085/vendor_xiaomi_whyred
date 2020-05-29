@@ -1,5 +1,5 @@
 
-VENDOR_PATH := vendor/xiaomi/Dirac
+VENDOR_PATH := vendor/xiaomi/whyred/dirac
 
 PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
